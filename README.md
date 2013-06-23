@@ -1,4 +1,4 @@
-kingdouustc.github.io-
+kingdouustc.github.io
 ======================
 
 My Blog
